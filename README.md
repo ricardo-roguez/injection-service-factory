@@ -6,7 +6,7 @@ Ver en la pantalla que el entorno no es prod
 
 Ver en la terminal del navegador Old service Login
 
-## Producion:
+## Producción:
 
 Levantar con `npm run start-prod`
 
